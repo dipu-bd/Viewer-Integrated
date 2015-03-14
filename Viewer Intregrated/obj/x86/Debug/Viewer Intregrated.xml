@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ViewerIntregrated
+</name>
+</assembly>
+<members>
+<member name="P:Viewer_Intregrated.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Viewer_Intregrated.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Viewer_Intregrated.My.Resources.Resources.CharRangeNames">
+	<summary>
+  Looks up a localized string similar to ASCII Characters; 0 to 255
+Latin Alphabets; 0 to 591
+Unknown-1; 592 to 879
+Greek; 880 to 1023
+Cyrillic; 1024 to 1279
+Unknown-2; 1280 to 1327
+Armenian; 1328 to 1423
+Hebrew; 1424 to 1535
+Arabic; 1536 to 1791
+Unknown-3; 1792 to 2303
+Devanagri; 2304 to 2431
+Bengali; 2432 to 2559
+Gurmukhi; 2560 to 2687
+Gujrati; 2688 to 2815
+Orya; 2816 to 2943
+Tamil; 2944 to 3071
+Teluga; 3072 to 3199
+Kannada; 3200 to 3327
+Malayam; 3328 to 3455
+Unknown-4; 3456 to 3583
+Thai; 3584 to 3711
+Lao; 3712 to 3839
+Tibe [rest of string was truncated]";.
+</summary>
+</member><member name="T:Viewer_Intregrated.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Viewer_Intregrated.CharViewer.SearchBox_GotFocus(System.Object,System.EventArgs)">
+	<summary>
+ Search code. Search Listview, Show range and show character.
+ </summary>
+</member><member name="M:Viewer_Intregrated.CharViewer.ToolStripButton1_Click(System.Object,System.EventArgs)">
+	<summary>
+ Extra Apps
+ </summary>
+</member>
+</members>
+</doc>

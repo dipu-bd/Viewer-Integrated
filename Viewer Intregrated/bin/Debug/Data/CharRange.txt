@@ -1,0 +1,55 @@
+ASCII Characters; 0 to 255
+Latin Alphabets; 0 to 591
+Unknown-1; 592 to 879
+Greek; 880 to 1023
+Cyrillic; 1024 to 1279
+Unknown-2; 1280 to 1327
+Armenian; 1328 to 1423
+Hebrew; 1424 to 1535
+Arabic; 1536 to 1791
+Unknown-3; 1792 to 2303
+Devanagri; 2304 to 2431
+Bengali; 2432 to 2559
+Gurmukhi; 2560 to 2687
+Gujrati; 2688 to 2815
+Orya; 2816 to 2943
+Tamil; 2944 to 3071
+Teluga; 3072 to 3199
+Kannada; 3200 to 3327
+Malayam; 3328 to 3455
+Unknown-4; 3456 to 3583
+Thai; 3584 to 3711
+Lao; 3712 to 3839
+Tibetan; 3840 to 4031
+Unknown-5; 4032 to 4255
+Georian; 4256 to 4351
+Hangul Jamo; 4352 to 4607
+Unknown-6; 4608 to 8191
+Punctuation; 8192 to 8303
+Superscripts or Subscripts; 8304 to 8351
+Currency Symbols; 8352 to 8399
+Diacritical Marks; 8400 to 8447
+Letterlike Symbols; 8448 to 8527
+Numeral Forms; 8528 to 8591
+Arrows; 8592 to 8703
+Mathematical Symbols; 8704 to 8959
+Tecnical Symbols; 8960 to 9215
+Control Pictures; 9216 to 9279
+OCR Symbols; 9280 to 9311
+Enclosed Alphanumerics; 9312 to 9471
+Box Drawing; 9472 to 9599
+Block Elements; 9600 to 9631
+Geometric Shapes; 9632 to 9727
+Unknown-7; 9728 to 9983
+Dingbats; 9984 to 10175
+Unknown-8; 10176 to 12351
+Hiragana; 12352 to 12447
+Katakana; 12448 to 12543
+Bopomofo; 12544 to 12591
+Jamo; 12592 to 12687
+Kanbum; 12688 to 12703
+Unknown-9; 12704 to 12799
+Enclosed CJK(Letters & Months); 12800 to 13055
+Unknown-10; 13056 to 19967
+CJK Ideograph; 19968 to 40959
+Unknown-11; 40960 to 65535
